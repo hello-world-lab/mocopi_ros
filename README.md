@@ -19,5 +19,5 @@ mocopiアプリの設定画面から「PC接続設定」を選択し、IPアド�
 ROS Noetic
 
 ## 謝辞
-seagetchさんのmcp_receiver(https://github.com/seagetch/mcp-receiver)を引用しています。  
+seagetchさんのmcp_receiver(https://github.com/seagetch/mcp-receiver )を引用しています。  
 ありがとうございます。  
